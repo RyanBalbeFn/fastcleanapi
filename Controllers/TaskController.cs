@@ -39,6 +39,12 @@ namespace MyApi.Controllers
             if (newTask == null || string.IsNullOrEmpty(newTask.Name))
                 return BadRequest("Task name is required.");
 
+            if (newTask.StartDate == DateTime.MinValue)
+                newTask.StartDate = DateTime.Now;
+
+            if (newTask.DueDate == DateTime.MinValue)
+                newTask.DueDate = DateTime.Now.AddDays(7);
+
             newTask.Id = tasks.Count + 1;
             tasks.Add(newTask);
             return CreatedAtAction(nameof(GetTask), new { id = newTask.Id }, newTask);
@@ -54,6 +60,8 @@ namespace MyApi.Controllers
 
             task.Name = updatedTask.Name;
             task.IsCompleted = updatedTask.IsCompleted;
+            task.StartDate = updatedTask.StartDate;
+            task.DueDate = updatedTask.DueDate;
             return NoContent();
         }
 
