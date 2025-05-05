@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FastClean")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+527b0f91816ffc1e1218d4c591f1d37cf27fdb82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8673f529a2a96f9dcae0423bab13bd80b0d9addc")]
 [assembly: System.Reflection.AssemblyProductAttribute("FastClean")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FastClean")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N8j2nkW9rwg=",
+  "dgSpecHash": "8LBgABtDMHE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\FastClean\\FastClean.csproj",
+  "projectFilePath": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VS22\\FastClean\\FastClean.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ryanb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
     "C:\\Users\\Ryanb\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
