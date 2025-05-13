@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VS22\\FastClean\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B3258A3-1B9A-94FB-AF8A-F2D22F176C65}|FastClean.csproj|c:\\users\\ryanb\\trabalho\\projetos\\projetos vs22\\fastclean\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3258A3-1B9A-94FB-AF8A-F2D22F176C65}|FastClean.csproj|solutionrelative:controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B3258A3-1B9A-94FB-AF8A-F2D22F176C65}|FastClean.csproj|c:\\users\\ryanb\\trabalho\\projetos\\projetos vs22\\fastclean\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B3258A3-1B9A-94FB-AF8A-F2D22F176C65}|FastClean.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B3258A3-1B9A-94FB-AF8A-F2D22F176C65}|FastClean.csproj|c:\\users\\ryanb\\trabalho\\projetos\\projetos vs22\\fastclean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B3258A3-1B9A-94FB-AF8A-F2D22F176C65}|FastClean.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B3258A3-1B9A-94FB-AF8A-F2D22F176C65}|FastClean.csproj|c:\\users\\ryanb\\trabalho\\projetos\\projetos vs22\\fastclean\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5B3258A3-1B9A-94FB-AF8A-F2D22F176C65}|FastClean.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3258A3-1B9A-94FB-AF8A-F2D22F176C65}|FastClean.csproj|c:\\users\\ryanb\\trabalho\\projetos\\projetos vs22\\fastclean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B3258A3-1B9A-94FB-AF8A-F2D22F176C65}|FastClean.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B3258A3-1B9A-94FB-AF8A-F2D22F176C65}|FastClean.csproj|c:\\users\\ryanb\\trabalho\\projetos\\projetos vs22\\fastclean\\fastclean.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VS22\\FastClean\\Models\\Task.cs",
               "RelativeDocumentMoniker": "Models\\Task.cs",
@@ -47,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VS22\\FastClean\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
               "ToolTip": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VS22\\FastClean\\Controllers\\TaskController.cs",
               "RelativeToolTip": "Controllers\\TaskController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T19:18:26.887Z",
               "IsPinned": true,
@@ -65,20 +69,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VS22\\FastClean\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ScheduleController.cs",
+              "ToolTip": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VS22\\FastClean\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "Controllers\\ScheduleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:41:45.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VS22\\FastClean\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VS22\\FastClean\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-02T21:44:43.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FastClean.csproj",
               "DocumentMoniker": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VS22\\FastClean\\FastClean.csproj",
               "RelativeDocumentMoniker": "FastClean.csproj",
@@ -86,21 +103,19 @@
               "RelativeToolTip": "FastClean.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-18T19:08:34.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T19:08:34.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VS22\\FastClean\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Ryanb\\Trabalho\\Projetos\\Projetos VS22\\FastClean\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T22:23:02.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-24T22:23:02.795Z"
             }
           ]
         }
